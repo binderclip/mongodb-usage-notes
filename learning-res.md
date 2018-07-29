@@ -13,6 +13,22 @@
 
 ## MongoDB with Python
 
+- PyMongo
+  - Flask-PyMongo
+- MongoEngine
+  - Flask-MongoEngine
+- PyMODM
+
+refs:
+
+- [Flask扩展系列(五)–MongoDB – 思诚之道](http://www.bjhee.com/flask-ext5.html)
+- [MongoEngine/mongoengine: A Python Object-Document-Mapper for working with MongoDB](https://github.com/MongoEngine/mongoengine)
+- [MongoDB - Full Stack Python](https://www.fullstackpython.com/mongodb.html)
 - [Tutorial — PyMongo 3.7.1 documentation](http://api.mongodb.com/python/current/tutorial.html)
 - [Python MongoDB](https://www.w3schools.com/python/python_mongodb_getstarted.asp)
 - [Python Mongodb | 菜鸟教程](http://www.runoob.com/python3/python-mongodb.html)
+- [使用Flash和MongoEngine 写一个轻博客应用 — MongoDB Manual](https://mongodb-documentation.readthedocs.io/en/latest/tutorial/write-a-tumblelog-application-with-flask-mongoengine.html)
+  - [rozza/flask-tumblelog: A mongoengine flask tumblelog](https://github.com/rozza/flask-tumblelog)
+  - [mongoengine使用笔记](https://www.linuxzen.com/mongoengineshi-yong-bi-ji.html)
+- [mongodb/pymodm: A Pythonic, object-oriented interface for working with MongoDB.](https://github.com/mongodb/pymodm)
+- [MongoDB with Python Flask using PyMongo | JeevanPant](http://jeevanpant.com/blog/mongodb-with-python-flask-using-pymongo/)
